@@ -425,8 +425,8 @@
 
             },
             {
-                "name": "1b (Phrasal verbs and phrases)",
-                "description": "",
+                "name": "1b",
+                "description": "(Phrasal verbs and phrases)",
                 "words": [
                     {
                         "eng": "agree to sth",
@@ -1477,8 +1477,8 @@
                 ]
             },
             {
-                "name": "2a (Phrasal verbs and phrases)",
-                "description": "",
+                "name": "2a",
+                "description": "(Phrasal verbs and phrases)",
                 "words": [
                     {
                         "eng": "break sth down",
